@@ -2718,6 +2718,11 @@ input, select, textarea {
 
 	}
 
+  div#featurewrap{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+  }
 /* Mobile */
 
 	#navPanel, #titleBar {
